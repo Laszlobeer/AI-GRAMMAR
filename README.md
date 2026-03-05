@@ -35,7 +35,7 @@ Before running this application, ensure you have the following installed:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/laszlobeer/ollama-grammar-fixer.git](https://github.com/Laszlobeer/AI-GRAMMAR.git)
+    git clone https://github.com/Laszlobeer/AI-GRAMMAR.git
     cd ollama-grammar-fixer
     ```
 
