@@ -3,9 +3,9 @@
 ![logo](logo.png)
 A lightweight desktop application built with **PyQt5** that leverages your local **Ollama** instance to correct, enhance, and rewrite text. This tool runs entirely offline (depending on your model) and provides three distinct variations of your input text simultaneously.
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)
-![Ollama](https://img.shields.io/badge/Ollama-Latest-orange.svg)
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org)
+[![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://pypi.org/project/PyQt5/)
+[![Ollama](https://img.shields.io/badge/Ollama-Latest-orange.svg)](https://ollama.com)
 
 ## ✨ Features
 
