@@ -1,5 +1,6 @@
 # 🦙 Ollama Grammar Fixer
 
+![logo](logo.png)
 A lightweight desktop application built with **PyQt5** that leverages your local **Ollama** instance to correct, enhance, and rewrite text. This tool runs entirely offline (depending on your model) and provides three distinct variations of your input text simultaneously.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
